@@ -1,0 +1,19 @@
+body{
+    background-color: lightskyblue;
+}
+p{
+    color: black;
+    border:solid 2px gold;
+    border-radius: 10px;
+}
+h3{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration-line: underline;
+    color:darkgreen;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
