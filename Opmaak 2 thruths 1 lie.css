@@ -1,10 +1,23 @@
 body{
     background-color: lightskyblue;
 }
+*{
+    margin: 2px;;
+    padding: 2px;;
+
+}
+*::selection{
+    color: coral;
+}
 p{
     color: black;
     border:solid 2px gold;
     border-radius: 10px;
+    padding: 10px;
+}
+p::first-letter{
+    font-size: 200%;
+    color: green;
 }
 h3{
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -13,7 +26,22 @@ h3{
 }
 a{
     text-decoration: none;
+    
+    
 }
+a:hover {
+    color: yellow;
+}
+a:visited{
+    color:brown;
+}
+a:visited:hover{
+    color:yellow;
+}
+
 h1{
     text-align: center;
+}
+ul{
+    text-align:left;
 }
