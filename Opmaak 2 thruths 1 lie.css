@@ -45,3 +45,9 @@ h1{
 ul{
     text-align:left;
 }
+img {
+    max-width: 75%;
+    height: auto;
+    border: solid orangered;
+    border-radius: 0% 10% 10% 10%;
+}
