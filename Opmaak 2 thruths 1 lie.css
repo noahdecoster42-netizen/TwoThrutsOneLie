@@ -1,5 +1,5 @@
 body{
-    background-color: BabyPink;
+    background-color: pink;
 }
 *{
     margin: 2px;;
@@ -51,4 +51,3 @@ img {
     border: solid orangered;
     border-radius: 0% 10% 10% 10%;
 }
-
