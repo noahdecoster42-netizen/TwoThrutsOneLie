@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 0.8em;
+    background-color: #9c0;
+    color: #990;
+}
+#wrapper{
+    width: 960px;
+    margin-left: auto ;
+    margin-right: auto ;
+    background-color: white;
+    border: solid 2px #999900;
+    padding: 10px;
+}
+#Info{
+    padding: 10px;
+    background-color: #990;
+    color: #fff;
+
+}
+#Info p{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+#Rederij{
+    font-size: 2em;
+    background-color: blueviolet;
+    text-align:center;
+    color: #FFF;
+    font-style: italic;
+    padding:0.3em;
+}
+#navigatie ul{
+            list-style: none;
+
+}
+#navigatie li{
+    margin-left: 0px;
+    padding-left: 5px; 
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-bottom: solid 1px #9c0;
+}
+#navigatie li :hover{
+    color: #FFF;
+}
+#navigatie a{
+    text-decoration: none;
+    color: #990;
+}
+#navigatie a :hover{
+    background-color: #990;
+    color: #FFF;
+}
+#content h1{
+    margin-bottom: 1em;
+
+}
+#content h2 {
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+
+}
+#content p{
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
+}
+#content ul{
+    padding-left: 0px;
+}
+#conten li {
+    margin-left: 17px;
+}
+#footer{
+    padding: 4px;
+    background-color: #990;
+    color: #fff;
+}
